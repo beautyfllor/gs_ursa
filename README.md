@@ -3,5 +3,5 @@
 ## Integrantes
 
 * Caio Rocha Fernandes
-* Jaqueline Aparecida Barbosa
+* Jaquelline Aparecida Barbosa
 * Florbela Freitas Oliveira
