@@ -1,4 +1,4 @@
-insert into tb_usuario(nm_completo, dt_nascimento, des_cpf, des_telefone, des_email, des_senha) values('Isac Coelho Bonito', '1987-05-15', '85642158720', '519 62587413', 'isac1987@gmail.com', 'isac1505');
+insert into tb_usuario(nm_completo, dt_nascimento, des_cpf, des_telefone, des_email, des_senha) values('Isac Coelho Bonito', '1987-05-15', '85642158720', '51962587413', 'isac1987@gmail.com', 'isac1505');
 insert into tb_usuario(nm_completo, dt_nascimento, des_cpf, des_telefone, des_email, des_senha) values('Carla Joana de Freitas', '1979-07-23', '95641328754', '21962587413', 'carla1979@gmail.com', 'carla1979');
 
 insert into tb_motorista(nm_completo, des_cpf, des_cnh, modelo_carro, des_placa) values('Jackson Ferreira Santos', '52479302544', '2539872246', 'VolksVagem Gol', 'VRGB3265');
