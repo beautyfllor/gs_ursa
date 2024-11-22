@@ -8,7 +8,6 @@ public class GsRunner implements CommandLineRunner{
 
 	  @Override
 	   public void run(String... args) throws Exception {
-	       // Lógica executada ao iniciar a aplicação
 	       System.out.println("Aplicação iniciada com sucesso!");
 	   }
 }
